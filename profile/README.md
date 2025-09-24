@@ -1,6 +1,9 @@
 <div align="center">
+  
 ### Hi Education
+  
 [<img src="https://img.shields.io/badge/교육 기간-2025.00.00~2025.00.00-green?style=flat&logo=&logoColor=white" />](https://github.com/hiedus)
+
 </div>
 
 <!--
